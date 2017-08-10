@@ -31,3 +31,4 @@ node_modules/
 
 #built js
 /src/main/resources/static/built/
+/.idea/
