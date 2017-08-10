@@ -26,6 +26,6 @@ Importing and running through an ide should also work
 once running navigate to localhost:8080
 
 ### Todos
-
+ - Seed REST Call With Matching Front End Display
  - Seed Tests
  - Live Reload
