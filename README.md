@@ -28,3 +28,4 @@ once running navigate to localhost:8080
 ### Todos
 
  - Seed Tests
+ - Live Reload
